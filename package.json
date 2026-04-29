@@ -1,0 +1,7 @@
+{
+  "name": "vercel-xhttp-relay",
+  "version": "1.0.0",
+  "description": "Edge-runtime XHTTP relay",
+  "private": true,
+  "license": "MIT"
+}
